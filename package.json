@@ -1,0 +1,23 @@
+{
+  "name": "spotify-playlist-backend",
+  "version": "1.0.0",
+  "description": "Oauth backend express server for my spotify-playlist-generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akeller98/spotify-playlist-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akeller98/spotify-playlist-backend/issues"
+  },
+  "homepage": "https://github.com/akeller98/spotify-playlist-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
