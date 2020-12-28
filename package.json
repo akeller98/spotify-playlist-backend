@@ -2,7 +2,7 @@
   "name": "spotify-playlist-backend",
   "version": "1.0.0",
   "description": "Oauth backend express server for my spotify-playlist-generator.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
